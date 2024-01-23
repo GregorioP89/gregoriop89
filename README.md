@@ -26,7 +26,7 @@ La aplicación proporciona funciones para la gestión de medicamentos, seguimien
 
 Personas mayores y sus cuidadores pueden beneficiarse de esta solución. Se ha diseñado teniendo en cuenta las necesidades únicas de este grupo demográfico.
 
-![Abuela y Tecnología](URL_DE_LA_IMAGEN) <!-- Reemplazar con la URL de la imagen relevante -->
+![Abuela y Tecnología]([URL_DE_LA_IMAGEN](https://cdn.elobservador.com.uy/adjuntos/184/imagenes/000/312/0000312448.jpg)) <!-- Reemplazar con la URL de la imagen relevante -->
 
 ## Fuentes de Datos y Métodos de IA
 
