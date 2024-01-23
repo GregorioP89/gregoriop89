@@ -32,7 +32,7 @@ Personas mayores y sus cuidadores pueden beneficiarse de esta solución. Se ha d
 
 ### Fuentes de Datos
 
-* Datos propios y recopilados de la comunidad de código abierto.
+* Datos propios y recopilados de la comunidad de código abierto, imagen de uso libre, conocimientos propios como Tecnico En Atencion Prehospitalaria. 
 
 ### Métodos de IA
 
